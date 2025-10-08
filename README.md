@@ -18,7 +18,7 @@
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="left">I'm Pasta from Earth <br><br>- 🔭 I’m working as Unemployed <br>- 📚 I'm currently learning pyton AI in games<br>- ⚡ In my free time I like to mess around with Raspberry Pi's</p>
 
 ###
 
