@@ -29,7 +29,7 @@
 <div align="left">
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" />
-  <img width="12" />
+  <img width="3" />
 
 
 ###
