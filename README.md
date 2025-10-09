@@ -18,7 +18,7 @@
 
 ###
 
-<p align="left">I'm Pasta from Earth <br><br>- 🔭 I’m working as Unemployed <br>- 📚 I'm currently learning python AI in games<br>- ⚡ In my free time I like to mess around with Raspberry Pi's</p>
+<p align="left">I'm Pasta from Earth <br><br>- 🔭 I’m working as Unemployed <br>- 📚 I'm currently learning python AI in games<br>- ⚡ In my free time I like to mess around with Raspberry Pi's and Hackathons</p>
 
 ###
 
@@ -57,3 +57,5 @@
 </div>
 
 ###
+
+<h4>Contact Me at pastazacode@gmail.com</h4>
