@@ -56,6 +56,10 @@
   <img src="https://streak-stats.demolab.com?user=Pastaza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
+<div align="center">
+  <img src="https://github-readme-stats.hackclub.dev/api/wakatime?username=19043&api_domain=hackatime.hackclub.com&theme=shadow_red&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8" />
+</div>
+
 ###
 
 <h4>Contact Me at pastazacode@gmail.com</h4>
